@@ -15,7 +15,7 @@ I build AI ordering systems for local restaurants and data analytics projects �
 ### [SlicePilot — AI Pizza Delivery](https://github.com/vinaykanth-us/SlicePilot)
 AI-powered pizza ordering and delivery system. Premium website with a full menu (modeled on a real pizzeria's menu as reference), AI calling agent, chatbot with a semantic layer, Stripe payments, and delivery. Demo project with a fictional restaurant.
 
-### [Munchies on Maple](https://github.com/vinaykanth-us/DBMunchiess)
+### [Munchies on Maple](https://github.com/vinaykanth-us/Munchies-on-Maple)
 AI ordering system for Munchies on Maple (Halal Chicken and Grill), Hartford, CT — practice/demo project. Website, Retell AI calling agent, Claude chatbot (3 tools, 7/7 tests passing) with a small semantic layer inspired by NVIDIA auto-ontology, Stripe Payment Links, and delivery onboarding.
 
 ### VIZIO Inscape — Smart TV Viewership & Advertising Performance Analytics
